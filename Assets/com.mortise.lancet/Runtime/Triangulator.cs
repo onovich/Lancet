@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Triangulator {
 
-    public static List<int> Triangulate(Vector2[] vertices) {
+    public static List<int> Triangulate(Vector3[] vertices) {
 
         List<int> indices = new List<int>();
 

@@ -5,7 +5,7 @@ using UnityEngine;
 namespace MortiseFrame.Swing.Test {
 
     public class TriangulatorSample : MonoBehaviour {
-        public Vector2[] vertices; // 定义多边形的顶点
+        public Vector3[] vertices; // 定义多边形的顶点
         public List<int> indexList; // 定义多边形的顶点索引
 
         [ContextMenu("切")]
