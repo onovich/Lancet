@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace MortiseFrame.Swing.Test {
+namespace MortiseFrame.Lancet.Sample {
 
     public class TriangulatorSample : MonoBehaviour {
         public Vector3[] vertices; // 定义多边形的顶点
