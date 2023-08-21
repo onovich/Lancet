@@ -1,0 +1,29 @@
+{
+    "name": "com.mortise.lancet",
+    "version": "0.0.1",
+    "unity": "2019.4",
+    "author": {
+        "name": "onovich",
+        "email": "onovich1110@gmail.com"
+    },
+    "displayName": "MortiseFrame.Lancet",
+    "description": "A lancet just cut. A triangulation library based on the Ear Clipping algorithm.",
+    "samples": [
+        {
+            "displayName": "Triangulation Visualization",
+            "description": "A visual demonstration of polygon triangulation using the Lancet library.",
+            "path": "Samples~"
+        }
+    ],
+    "documentationURL": "https://github.com/onovich/Lancet",
+    "hideInEditor": false,
+    "category": "Triangulation",
+    "keywords": [
+        "MortiseFrame",
+        "Triangulation",
+        "Geometry",
+        "Mesh",
+        "Polygon2D",
+        "EarClipping"
+    ]
+}
