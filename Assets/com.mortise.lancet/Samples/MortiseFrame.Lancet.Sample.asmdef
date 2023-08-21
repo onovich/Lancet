@@ -1,0 +1,16 @@
+{
+    "name": "MortiseFrame.Lancet.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d1124c07554230a44bcea47712c6b960"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
