@@ -1,5 +1,5 @@
 # Lancet
-Lancet is used for slicing Mesh, named after "lancet," which is the direct translation of "柳叶刀." It is based on the Earclipping algorithm and is suitable for use during editing rather than runtime.<br/>
+Lancet is used for slicing Mesh, named after "柳叶刀". It is based on the Earclipping algorithm and is suitable for use during editing rather than runtime.<br/>
 **Lancet 用于切割 Mesh，名称取自于「柳叶刀」。它基于 Earclipping 算法实现，适合在编辑时而非运行时使用。**
 
 Its application scenario is very niche: when you want to draw a Mesh yourself but don't know how to construct the triangle indices of the Mesh.<br/>
